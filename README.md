@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Paturkar</h1>
-<h3 align="center">Full stack developer</h3>
+<h3 align="center">Full Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekpaturkar&label=Profile%20views&color=ff0000&style=plastic" alt="abhishekpaturkar" /> </p>
 
