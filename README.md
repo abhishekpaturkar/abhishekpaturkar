@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<p align="center" style="font-weight: 700;">Passionate Full Stack Web Developer and problem solver with a keen interest in exploring the tech world and continuously learning new technologies. I specialize in Web Development using Next.js with TypeScript and Tailwind CSS, and I am also proficient in the MERN stack. I have a strong background in solving algorithmic challenges and am currently enhancing my skills by tackling DSA problems on LeetCode.</p>
+<h3 align="center">Passionate Full Stack Web Developer and problem solver with a keen interest in exploring the tech world and continuously learning new technologies. I specialize in Web Development using Next.js with TypeScript and Tailwind CSS, and I am also proficient in the MERN stack. I have a strong background in solving algorithmic challenges and am currently enhancing my skills by tackling DSA problems on LeetCode.</h3>
 
 ###
 
