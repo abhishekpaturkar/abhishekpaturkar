@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<p align="center">Passionate Full Stack Web Developer and problem solver with a keen interest in exploring the tech world and continuously learning new technologies. I specialize in Web Development using Next.js with TypeScript and Tailwind CSS, and I am also proficient in the MERN stack. I have a strong background in solving algorithmic challenges and am currently enhancing my skills by tackling DSA problems on LeetCode.</p>
+<p align="center" style="font-weight: 700;">Passionate Full Stack Web Developer and problem solver with a keen interest in exploring the tech world and continuously learning new technologies. I specialize in Web Development using Next.js with TypeScript and Tailwind CSS, and I am also proficient in the MERN stack. I have a strong background in solving algorithmic challenges and am currently enhancing my skills by tackling DSA problems on LeetCode.</p>
 
 ###
 
@@ -82,9 +82,9 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekpaturkar&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false&order=1&custom_title=GitHub%20Stats" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekpaturkar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false&order=2&custom_title=Languages" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=abhishekpaturkar&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekpaturkar&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false&order=1&custom_title=GitHub%20Stats" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekpaturkar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false&order=2&custom_title=Languages" height="194" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=abhishekpaturkar&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekpaturkar&radius=16&theme=high-contrast&area=true&order=5&custom_title=Contribution%20Graph" height="300" alt="activity-graph graph"  />
 </div>
 
