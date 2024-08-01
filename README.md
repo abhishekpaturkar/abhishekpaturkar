@@ -82,3 +82,6 @@
 </div>
 
 ###
+
+## Badge
+<img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
