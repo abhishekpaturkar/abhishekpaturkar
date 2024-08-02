@@ -77,8 +77,13 @@
 <p>&nbsp</p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhishekpaturkar&show_icons=true&locale=en&theme=highcontrast&count_private=true&custom_title=GitHub%20Stats" height="200" alt="stats graph />
+  <p>&nbsp</p>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekpaturkar&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="Languages States" />
+  <p>&nbsp</p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekpaturkar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false&order=2&custom_title=Languages" height="194" alt="languages graph"  />
+  <p>&nbsp</p>
   <img src="https://streak-stats.demolab.com?user=abhishekpaturkar&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+  <p>&nbsp</p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekpaturkar&radius=16&theme=high-contrast&area=true&order=5&custom_title=Contribution%20Graph" height="300" alt="activity-graph graph"  />
 </div>
 
