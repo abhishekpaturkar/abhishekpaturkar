@@ -16,6 +16,10 @@
   <a href="https://www.instagram.com/abhiii_03_05/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
+  
+  <a href="https://leetcode.com/u/Abhishek_Paturkar/" target="_blank"> 
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=webp&w=256", width="52" height="40" alt="leetcode" />
+  </a>
 </div>
 
 ###
